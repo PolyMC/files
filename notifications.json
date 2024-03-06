@@ -1,0 +1,9 @@
+[
+  {
+		"id": 0,
+		"message": "The CurseForge API used up to 1.2.1 will get deprecated on May 9. Please update to 1.2.2 to keep CurseForge support.",
+		"type": "warning",
+		"from": "1.2.1",
+		"to": "1.2.1"
+	}
+]
